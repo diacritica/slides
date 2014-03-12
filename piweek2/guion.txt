@@ -1,0 +1,30 @@
+GUION
+
+presentación piweek original
+vídeo piweek?
+vídeo la he liado parda
+
+Proyectos:
+
+Bokzuy
+Un sistema de detección de placa dental a través del móvil
+Una plataforma para simular falso directo con n cámaras de vídeo
+Filteat
+ttparo
+aplausómetro en arduino
+un generador de gifs animados
+arandomtable
+un simulador de red social con millones de retweets
+un recomendador inteligente de regalos para amigos según sis likes en redes sociales
+un intérprete en lisp escrito en haskell
+un sistema para definir parsers
+cobrascript, un traductor de sintaxis python a javascript
+un juego online para bots programables
+un app móvil para controlar el consumo de productos no ecológicos de forma responsable
+un juego retroclón web para demostrar si D de Google puede sustituir a javascript
+un planificador de viajes en solitario o en grupo
+
+
+enseñar mrfogg
+demo taiga
+easter egg
